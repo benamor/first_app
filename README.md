@@ -37,7 +37,9 @@ link:files/vendor/rails/actionpack/README.html.
 3. Go to http://localhost:3000/ and you'll see:
        "Welcome aboard: You're riding Ruby on Rails!"
 
-4. Follow the guidelines to start developing your application. You can find
+4. Follow the guidelines to star
+
+t developing your application. You can find
 the following resources handy:
 
 * The Getting Started Guide: http://guides.rubyonrails.org/getting_started.html
